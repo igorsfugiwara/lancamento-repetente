@@ -36,6 +36,7 @@ article div {
 
 figure {
     height: 100%;
+    margin: 0;
 }
 
 h1 {
@@ -44,6 +45,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 0;
 }
 
 article:nth-child(2) section:first-child {
